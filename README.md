@@ -219,6 +219,29 @@ The database can be hosted on:
 ## Live Link
 https://school-api-j2xd.onrender.com/
 
+# API Testing
+
+## POST /api/addSchool
+
+Request Body:
+
+```json
+{
+  "name": "Delhi Public School",
+  "address": "Delhi",
+  "latitude": 28.6139,
+  "longitude": 77.2090
+}
+```
+
+---
+
+## GET /api/listSchools
+
+Example:
+
+https://school-api-j2xd.onrender.com/api/listSchools?latitude=28.6139&longitude=77.2090
+
 
 # Author
 
