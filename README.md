@@ -216,6 +216,9 @@ The database can be hosted on:
 - Aiven MySQL
 
 ---
+## Live Link
+https://school-api-j2xd.onrender.com/
+
 
 # Author
 
